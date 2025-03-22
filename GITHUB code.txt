@@ -1,0 +1,19 @@
+
+</head>
+<body>
+    <div class="container">
+        <h1>Dhananjay Dhar</h1>
+        <h3>Engineer, MBA, Renewable Energy Project Expert</h3>
+        <p>Demonstrating that an engineering graduate can succeed in trading.</p>
+        
+        <h2>Gann Calculators</h2>
+        <p>Explore the free Gann calculators below:</p>
+        
+        <h3>Gann Square of 9</h3>
+        <iframe src="https://www.stockmaniacs.net/freebies/free-tools/gann-square-of-9-calculator/"></iframe>
+        
+        <h3>Gann Intraday Reversal Time</h3>
+        <iframe src="https://www.trinitychart.com/gann-intraday-reversal-time"></iframe>
+    </div>
+</body>
+</html>
